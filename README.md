@@ -5,11 +5,11 @@ Detail-oriented SQA with almost 2 years testing large-scale UK Financial Apps @W
 🔗 **Portfolio:** https://iqra-afzal-qa.netlify.app | **Live Project:** https://luxe-wear-pk.netlify.app | **LinkedIn:** https://linkedin.com/in/iqra-afzal-ab0a7b3a0
 
 #### 🛠️ Core Skills
-**Testing:** Functional, Regression, Smoke, E2E, UI/UX, Cross-Browser, Mobile, AI Testing, Risk-Based
-**Automation:** Playwright (JS), POM, Selenium, Cypress (Basics), Codegen
-**API Testing:** Postman, REST API, CRUD, Bearer Token, OAuth 2.0, JSON Validation, Mock Servers
-**AI for QA:** Hallucination, Bias, Prompt Injection, Accuracy, Safety, RAG, Groq API
-**DevOps:** GitHub Actions, Azure Pipelines, Docker, Linux, JUnit Reporting
+**Testing:** Functional, Regression, Smoke, E2E, UI/UX, Cross-Browser, Mobile, AI Testing, Risk-Based<br>
+**Automation:** Playwright (JS), POM, Selenium, Cypress (Basics), Codegen<br>
+**API Testing:** Postman, REST API, CRUD, Bearer Token, OAuth 2.0, JSON Validation, Mock Servers<br>
+**AI for QA:** Hallucination, Bias, Prompt Injection, Accuracy, Safety, RAG, Groq API<br>
+**DevOps:** GitHub Actions, Azure Pipelines, Docker, Linux, JUnit Reporting<br>
 **Tools:** Jira/Xray, Azure Boards/Test Plans, BrowserStack, OWASP ZAP, MySQL
 
 #### 💼 Experience
